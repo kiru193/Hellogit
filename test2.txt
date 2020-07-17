@@ -2,6 +2,6 @@
 
 void main(){
 printf("Hello!")
-printf("How are you?")
+
 printf("I'm fine thank you!")
 }
